@@ -11,6 +11,6 @@ HSG_Python_Group_Project_ML.pdf
 
 In order to run the code:
 You can either download the file "HSG_Python_Group_Project_ML.ipynb" through the green "<> Code" button on the "<> Code" tab of the repository
-or on the pop-up window from the "<> Code" button go to the "Codespaces" tab and run it from there.
+or on the dropdown window from the "<> Code" button go to the "Codespaces" tab and run it from there.
 
 If you decide to download the file, we recommend using Jupyter Notebook (we used version 6.4.8) via Anaconda.
